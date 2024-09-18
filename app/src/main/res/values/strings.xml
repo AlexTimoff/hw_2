@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">secondhomework</string>
+    <string name="main_title">Countdown Timer</string>
+    <string name="progress_text">0</string>
+    <string name="str_text">ON/OFF</string>
+    <string name="TimeConverter">Time Converter</string>
+    <string name="pause_text">PAUSE</string>
+</resources>
